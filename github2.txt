@@ -8,3 +8,4 @@ def number(a,b,c):
     else:
         return c
 print(number(42,2,7))
+#tq
